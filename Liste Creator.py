@@ -25,7 +25,7 @@ def construire():
         else:
             liste.append(mot)
             mot=("")
-    texte=("["+",".join(liste)+"]")
+    texte=("["+'"'+'","'.join(liste)+"]")
     if len(texte)>50:
         affiche=texte[0:15]+("     (...)     ")+texte[-16:-1]
     else:
