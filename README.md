@@ -3,11 +3,10 @@
   <h1 align="center">Liste-creator</h1>
 </p>
 
-This a simple python utility for convert lignes to python liste [ , ] . Use CustomTkinter . 
+This a simple python utility for convert lignes to python liste ["",""] . Use CustomTkinter . 
 
-![Clipboarder 2024 07 28-004](https://github.com/user-attachments/assets/9a1f5c05-63e9-4958-9112-1e94132958f5)
-![Clipboarder 2024 07 28-005](https://github.com/user-attachments/assets/e6ecddd4-ae33-49aa-8ea2-7b5cfd87b95c)
-![Clipboarder 2024 07 28-006](https://github.com/user-attachments/assets/af890460-6c4b-45c5-941a-8efa883f1632)
-![Clipboarder 2024 07 28-007](https://github.com/user-attachments/assets/e097e7b7-1f1f-4088-9cd8-523b797abe60)
-![Clipboarder 2024 07 28-008](https://github.com/user-attachments/assets/851f9fda-7d1f-4315-985f-20dd4874aca8)
-![Clipboarder 2024 07 28-009](https://github.com/user-attachments/assets/e2071371-800a-41b3-b3e9-70b008244033)
+![Clipboarder 2024 08 04](https://github.com/user-attachments/assets/140717b4-0169-4daa-a9dd-00e21f876967)
+![Clipboarder 2024 08 04-002](https://github.com/user-attachments/assets/b48242e9-6131-43a8-b9b1-2f88165e45b5)
+![Clipboarder 2024 08 04-003](https://github.com/user-attachments/assets/44188724-00e9-49ce-9928-ff8fa64657c4)
+![Clipboarder 2024 08 04-004](https://github.com/user-attachments/assets/47724d96-e7f0-4e88-adef-9f88d534b83d)
+![Clipboarder 2024 08 04-005](https://github.com/user-attachments/assets/45019dfd-c275-46fa-9f20-7fe5395b15d0)
