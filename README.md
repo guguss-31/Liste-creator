@@ -6,6 +6,7 @@
 This a simple python utility for convert lignes to python liste ["",""] .
 
 Modern UI design by [CUstomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+[Clipboard Module](https://github.com/asweigart/pyperclip)
 
 screenshots:
 ![Clipboarder 2024 08 04](https://github.com/user-attachments/assets/140717b4-0169-4daa-a9dd-00e21f876967)
